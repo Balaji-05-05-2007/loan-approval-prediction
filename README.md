@@ -1,11 +1,36 @@
-# loan-approval-prediction
-Machine learning model to predict loan approval using applicant data with preprocessing, EDA, and classification techniques.
+# Loan Prediction using Machine Learning
 
+## 📌 Project Overview
 
-## 📌 Project Description
+This project predicts whether a loan will be approved based on applicant details using machine learning techniques.
 
-This project focuses on predicting loan approval status using machine learning algorithms. It involves data preprocessing, exploratory data analysis (EDA), feature selection, and model building to identify whether an applicant is eligible for a loan.
+## 🚀 Features
 
-The model is trained on historical applicant data such as income, credit history, loan amount, and other relevant factors. Various classification techniques are applied and evaluated to improve prediction accuracy.
+* Data preprocessing and cleaning
+* Exploratory Data Analysis (EDA)
+* Model training and evaluation
+* Prediction system
 
-This project demonstrates end-to-end implementation of a machine learning pipeline, including data cleaning, visualization, model training, and performance evaluation.
+## 🛠️ Technologies Used
+
+* Python
+* Pandas, NumPy
+* Scikit-learn
+* Jupyter Notebook
+
+## 📂 Project Structure
+
+* `Project_loan.ipynb` – Main notebook
+
+## 📊 Output
+
+The model predicts loan approval status based on input features.
+
+## 🔗 Future Improvements
+
+* Improve model accuracy
+* Deploy as web application
+
+## 👤 Author
+
+Balaji.G
